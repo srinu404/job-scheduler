@@ -264,16 +264,20 @@ http://localhost:3000
 
 
 ## Mango DB
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d70782d-343c-49ca-b78a-7925d59e2766" />
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/81aa1781-d20c-4352-ba02-ec3cf8deccda" />
+
 
 ## Frontend
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12067cc6-53e5-4e8a-acf9-925978a438f2" />
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/3d034cff-7353-4894-8790-58c0d134b7d8" />
+
 
 ## Backend
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/492878e8-2090-471b-b7b4-a1626aa10f80" />
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/6d26aa5e-2485-4728-8fb7-64eb73960022" />
+
 
 ## Running Website
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15ca07b3-60e2-495e-8e4b-7a32aa35a946" />
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/042ada71-62d4-47c5-90ee-0fa058cdf895" />
+
 
 
 
